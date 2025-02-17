@@ -1,5 +1,5 @@
 ## Overview
-This module provides a comprehensive introduction to data structures and algorithms, which are fundamental to computer science. Students will explore core data structures such as arrays, linked lists, stacks, queues, trees, and graphs, and learn key algorithms for sorting, searching, and optimization.
+NEW OVERVIEW 2025 :::: This module provides a comprehensive introduction to data structures and algorithms, which are fundamental to computer science. Students will explore core data structures such as arrays, linked lists, stacks, queues, trees, and graphs, and learn key algorithms for sorting, searching, and optimization.
 
 ## Topics
 - Introduction to Data Structures and Algorithms
